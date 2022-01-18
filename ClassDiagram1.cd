@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SVGCanvas_Graphical_2._0.Program">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="game" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.Game" Collapsed="true">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAACgAAQABAAAAAAIBAAAACAIgAABAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="caretaker" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="menus" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.Caretaker" Collapsed="true">
+    <Position X="11.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAEAAAAAAAAAAEAAAAAAIAAAAABCAAAAAABAAA=</HashCode>
+      <FileName>CareTaker.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="o" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="savedMementos" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.IMenu">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.AddShape" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAgAAQAAAAAAAAAAAAAAIABAAAA=</HashCode>
+      <FileName>AddShape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.DefaultStyle" Collapsed="true">
+    <Position X="2" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAgAAQAAAAAAAAAAAAAAIABAAAA=</HashCode>
+      <FileName>DefaultStyle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.EditCanvas" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAgAAQAAAAAAAAAAAAAAIABAAAA=</HashCode>
+      <FileName>EditCanvas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.Homescreen" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAgAAQAAAAAAAAAAAAAAIABAAAA=</HashCode>
+      <FileName>Homescreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.RemoveShape" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAIAAAAAgAAQACAAAAAAAAAAAAIABAAAA=</HashCode>
+      <FileName>RemoveShape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.Originator" Collapsed="true">
+    <Position X="11.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Originator.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="state" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.Memento" Collapsed="true">
+    <Position X="13.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Memento.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="canvas" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.Canvas" Collapsed="true">
+    <Position X="13.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAQAgAAAAABAY=</HashCode>
+      <FileName>Canvas.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="shapes" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.Shape" Collapsed="true">
+    <Position X="13.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAIAABAAAEAAAAAAAAIAAAA=</HashCode>
+      <FileName>Shape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.Circle" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAACAAAQAAAAgAAAB4AARAAQEAIAAgAAAICAoA=</HashCode>
+      <FileName>Circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.Ellipse" Collapsed="true">
+    <Position X="10.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAGIAACAAAQAAAAgAAAB4AARAAQEAIAAgAAAICAoA=</HashCode>
+      <FileName>Ellipse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.Line" Collapsed="true">
+    <Position X="12.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAQAAAAgAAAAYAAxAAQECIAQAAAAICAoA=</HashCode>
+      <FileName>Line.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.Path" Collapsed="true">
+    <Position X="13.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAACAAAQAAAAgAAAAYAARAAQEAICAgAAAICAoA=</HashCode>
+      <FileName>Path.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.Polygon" Collapsed="true">
+    <Position X="15.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAICACAAAQAAAAgAAAAYAARAAQEAIAAgAAAICAoA=</HashCode>
+      <FileName>Polygon.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="points" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.Polyline" Collapsed="true">
+    <Position X="16.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAICACAAAQAAAAgAAAAYAARAAQEAIAAgAAAICAoA=</HashCode>
+      <FileName>Polyline.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="points" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.Rectangle" Collapsed="true">
+    <Position X="18.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAIAACAEAQAQAQgAAAAYAARAAQEAIAAgAAAICAoA=</HashCode>
+      <FileName>Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.CanvasToolkit" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCAAAAgAAAAABQAAAAAAAAAEAAAIAAAAAAA=</HashCode>
+      <FileName>CanvasToolkit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.InfoScreens" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAggAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InfoScreens.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.DefaultStyleGenerator" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEAAAA=</HashCode>
+      <FileName>DefaultStyleGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.CLIParser" Collapsed="true">
+    <Position X="19" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAACAAAAAAIAAAAAAAAAAAAAQAACAAEAAAAAABIA=</HashCode>
+      <FileName>CLIParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.CLICanvasToolkit" Collapsed="true">
+    <Position X="15.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAABQAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>CLICanvasToolkit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SVGCanvas_Graphical_2._0.ShapeGenerator" Collapsed="true">
+    <Position X="17.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAIAACAAAAAAIAAAACCCAAAAggAAAAAAAAAAABACA=</HashCode>
+      <FileName>ShapeGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="SVGCanvas_Graphical_2._0.Point" Collapsed="true">
+    <Position X="16" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Point.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

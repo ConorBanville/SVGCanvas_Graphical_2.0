@@ -1,0 +1,30 @@
+C:\Users\FiercePC\Desktop\CS264Assignment3\SVGCanvas_Graphical_2.0\bin\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.exe
+C:\Users\FiercePC\Desktop\CS264Assignment3\SVGCanvas_Graphical_2.0\bin\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.deps.json
+C:\Users\FiercePC\Desktop\CS264Assignment3\SVGCanvas_Graphical_2.0\bin\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.runtimeconfig.json
+C:\Users\FiercePC\Desktop\CS264Assignment3\SVGCanvas_Graphical_2.0\bin\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.runtimeconfig.dev.json
+C:\Users\FiercePC\Desktop\CS264Assignment3\SVGCanvas_Graphical_2.0\bin\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.dll
+C:\Users\FiercePC\Desktop\CS264Assignment3\SVGCanvas_Graphical_2.0\bin\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.pdb
+C:\Users\FiercePC\Desktop\CS264Assignment3\SVGCanvas_Graphical_2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\FiercePC\Desktop\CS264Assignment3\SVGCanvas_Graphical_2.0\obj\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.csproj.AssemblyReference.cache
+C:\Users\FiercePC\Desktop\CS264Assignment3\SVGCanvas_Graphical_2.0\obj\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FiercePC\Desktop\CS264Assignment3\SVGCanvas_Graphical_2.0\obj\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.AssemblyInfoInputs.cache
+C:\Users\FiercePC\Desktop\CS264Assignment3\SVGCanvas_Graphical_2.0\obj\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.AssemblyInfo.cs
+C:\Users\FiercePC\Desktop\CS264Assignment3\SVGCanvas_Graphical_2.0\obj\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\Desktop\CS264Assignment3\SVGCanvas_Graphical_2.0\obj\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.dll
+C:\Users\FiercePC\Desktop\CS264Assignment3\SVGCanvas_Graphical_2.0\obj\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.pdb
+C:\Users\FiercePC\Desktop\CS264Assignment3\SVGCanvas_Graphical_2.0\obj\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.genruntimeconfig.cache
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Assignments\CS264Assignment3\SVGCanvas_Graphical_2.0\bin\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.exe
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Assignments\CS264Assignment3\SVGCanvas_Graphical_2.0\bin\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.deps.json
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Assignments\CS264Assignment3\SVGCanvas_Graphical_2.0\bin\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.runtimeconfig.json
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Assignments\CS264Assignment3\SVGCanvas_Graphical_2.0\bin\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.runtimeconfig.dev.json
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Assignments\CS264Assignment3\SVGCanvas_Graphical_2.0\bin\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.dll
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Assignments\CS264Assignment3\SVGCanvas_Graphical_2.0\bin\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.pdb
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Assignments\CS264Assignment3\SVGCanvas_Graphical_2.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Assignments\CS264Assignment3\SVGCanvas_Graphical_2.0\obj\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.csproj.AssemblyReference.cache
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Assignments\CS264Assignment3\SVGCanvas_Graphical_2.0\obj\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Assignments\CS264Assignment3\SVGCanvas_Graphical_2.0\obj\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.AssemblyInfoInputs.cache
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Assignments\CS264Assignment3\SVGCanvas_Graphical_2.0\obj\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.AssemblyInfo.cs
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Assignments\CS264Assignment3\SVGCanvas_Graphical_2.0\obj\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Assignments\CS264Assignment3\SVGCanvas_Graphical_2.0\obj\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.dll
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Assignments\CS264Assignment3\SVGCanvas_Graphical_2.0\obj\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.pdb
+C:\Users\FiercePC\Desktop\Code\C# Projects\CS264 Assignments\CS264Assignment3\SVGCanvas_Graphical_2.0\obj\Debug\netcoreapp3.1\SVGCanvas_Graphical_2.0.genruntimeconfig.cache

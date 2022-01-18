@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1BceLPtH7CTgL60NB72zW8nELDMJA7tGX2aRF1UDTaateJDElMxpfflm0xMrv6vYPAR8bCSfOp82nUtyhGvGrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FiercePC\\Desktop\\Code\\C# Projects\\CS264 Assignments\\CS264Assignment3\\SVGCanvas_Graphical_2.0\\SVGCanvas_Graphical_2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FiercePC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

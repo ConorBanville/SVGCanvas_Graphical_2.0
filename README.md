@@ -1,6 +1,11 @@
-# SVG Canvas *Memento Design Pattern*
+# SvgCanvas Graphical 
 
-This is a simple console application to help a user create and maintain an array of basic SVG (Scalable Vector Graphics) elements on a single canvas. The application provides functions to export the data structure to an svg file aswell as updating existing svg files. Undoable operations have been facilitated using the Memento Design Pattern. The application has been developed using the C# programming language.
+This is a console application written in the C# programming language intended to help a user create and maintiang an array of basic SVG (Scalable Vector Graphics) on a single canvas. The application offers an intuitive menu system to aid users unfamiliar with command line interfaces, aswell as a CLI mode to facilitate users who are more familiar with command line interfaces. Using the application, a user can create a fresh canvas, add and maintain customised svg elements and then export the data structure to a svg file viewable in the browser.
+
+>Future updates
+- Allow importing of existing svg files
+- Support PDF conversion
+- Support PNG Conversion 
 
 >List of included SVG elements 
 - Rectangle

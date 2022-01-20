@@ -1,0 +1,33 @@
+
+{
+    "width": 2000,
+    "height": 2000,
+    "shapes":
+    [
+{
+  "Name": "Rectangle",
+  "id": 0,
+  "xpos": 200.0,
+  "ypos": 200.0,
+  "width": 300.0,
+  "height": 400.0,
+  "fill": "red",
+  "stroke": "black",
+  "strokeDashArray": "",
+  "strokeWidth": 1
+},
+{
+  "Name": "Rectangle",
+  "id": 1,
+  "xpos": 800.0,
+  "ypos": 800.0,
+  "width": 300.0,
+  "height": 400.0,
+  "fill": "blue",
+  "stroke": "black",
+  "strokeDashArray": "",
+  "strokeWidth": 1
+}
+    ]
+}
+     

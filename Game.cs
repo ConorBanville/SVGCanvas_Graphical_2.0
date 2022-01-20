@@ -105,6 +105,7 @@ namespace SVGCanvas_Graphical_2._0
                                     Console.ReadKey();
                                     // caretaker = new Caretaker(SaveCanvasSupport.BuildCanvas(saveName));
                                     // caretaker.BackUp();
+                                    
                                     MenuOn = false;
                                     //i++;
                                     break;
